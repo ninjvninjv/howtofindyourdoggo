@@ -1,0 +1,206 @@
+@font-face {
+    font-family: 'Avara_Bold';
+    src:    url('avara/Bold/Avara-Bold_web.eot');
+    src:    url('avara/Bold/Avara-Bold_web.eot?#iefix') format('embedded-opentype'),
+            url('avara/Bold/Avara-Bold_web.woff') format('woff'),
+            url('avara/Bold/Avara-Bold_web.woff2') format('woff2'),
+            url('avara/Bold/Avara-Bold_web.ttf') format('truetype'),
+            url('avara/Bold/Avara-Bold_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avara_Bold Italic';
+    src:    url('avara/BoldItalic/Avara-Bold_Italic_web.eot');
+    src:    url('avara/BoldItalic/Avara-Bold_Italic_web.eot?#iefix') format('embedded-opentype'),
+            url('avara/BoldItalic/Avara-Bold_Italic_web.woff') format('woff'),
+            url('avara/BoldItalic/Avara-Bold_Italic_web.woff2') format('woff2'),
+            url('avara/BoldItalic/Avara-Bold_Italic_web.ttf') format('truetype'),
+            url('avara/BoldItalic/Avara-Bold_Italic_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avara_Black';
+    src:    url('avara/Black/Avara-Black_web.eot');
+    src:    url('avara/Black/Avara-Black_web.eot?#iefix') format('embedded-opentype'),
+            url('avara/Black/Avara-Black_web.woff') format('woff'),
+            url('avara/Black/Avara-Black_web.woff2') format('woff2'),
+            url('avara/Black/Avara-Black_web.ttf') format('truetype'),
+            url('avara/Black/Avara-Black_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bluu Bold';
+    src: url('bluu next/bluunext-bold-webfont.woff2') format('woff2'),
+         url('bluu next/bluunext-bold-webfont.woff') format('woff'),
+         url('bluu next/bluunext-bold.ttf') format('truetype'),
+         url('bluu next/bluunext-bold-webfont.svg#bluu_nextbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Bluu Italic';
+    src: url('bluu next/bluunext-bolditalic-webfont.woff2') format('woff2'),
+         url('bluu next/bluunext-bolditalic-webfont.woff') format('woff'),
+         url('bluu next/bluunext-bolditalic.ttf') format('truetype'),
+         url('bluu next/bluunext-bolditalic-webfont.svg#bluu_nextbold_italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'Bluu_Nexttitling';
+    src: url('bluu next/BluuNext-Titling.ttf') format('truetype'),
+        url('bluu next/bluunext-titling.woff2') format('woff2'),
+        url('bluu next/bluunext-titling.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Commune_Nuit_Debout';
+    src:    url('commune/NuitDebout/Commune-Nuit_Debout_web.eot');
+    src:    url('commune/NuitDebout/Commune-Nuit_Debout_web.eot?#iefix') format('embedded-opentype'),
+            url('commune/NuitDebout/Commune-Nuit_Debout_web.woff') format('woff'),
+            url('commune/NuitDebout/Commune-Nuit_Debout_web.woff2') format('woff2'),
+            url('commune/NuitDebout/Commune-Nuit_Debout_web.ttf') format('truetype'),
+            url('commune/NuitDebout/Commune-Nuit_Debout_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Commune_Nuit_Debout_Pochoir';
+    src:    url('commune/NuitDeboutPochoir/Commune-Nuit_Debout_Pochoir_web.eot');
+    src:    url('commune/NuitDeboutPochoir/Commune-Nuit_Debout_Pochoir_web.eot?#iefix') format('embedded-opentype'),
+            url('commune/NuitDeboutPochoir/Commune-Nuit_Debout_Pochoir_web.woff') format('woff'),
+            url('commune/NuitDeboutPochoir/Commune-Nuit_Debout_Pochoir_web.woff2') format('woff2'),
+            url('commune/NuitDeboutPochoir/Commune-Nuit_Debout_Pochoir_web.ttf') format('truetype'),
+            url('commune/NuitDeboutPochoir/Commune-Nuit_Debout_Pochoir_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Le Murmure_Regular';
+    src:    url('le murmure/Le_Murmure-Regular_web.eot');
+    src:    url('le murmure/Le_Murmure-Regular_web.eot?#iefix') format('embedded-opentype'),
+            url('le murmure/Le_Murmure-Regular_web.woff') format('woff'),
+            url('le murmure/Le_Murmure-Regular_web.woff2') format('woff2'),
+            url('le murmure/Le_Murmure-Regular_web.ttf') format('truetype'),
+            url('le murmure/Le_Murmure-Regular_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'resistanceregular';
+    src: url('résistance/resistance_generale-webfont.eot');
+    src: url('résistance/resistance_generale-webfont.eot?#iefix') format('embedded-opentype'),
+         url('résistance/resistance_generale-webfont.woff2') format('woff2'),
+         url('résistance/resistance_generale-webfont.woff') format('woff'),
+         url('résistance/resistance_generale-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'savateitalique';
+    src: url('savate/savate-italique-webfont.eot');
+    src: url('savate/savate-italique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('savate/savate-italique-webfont.woff2') format('woff2'),
+         url('savate/savate-italique-webfont.woff') format('woff'),
+         url('savate/savate-italique-webfont.ttf') format('truetype'),
+         url('savate/savate-italique-webfont.svg#savateitalique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'savateregular';
+    src: url('savate/savate-regular-webfont.eot');
+    src: url('savate/savate-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('savate/savate-regular-webfont.woff2') format('woff2'),
+         url('savate/savate-regular-webfont.woff') format('woff'),
+         url('savate/savate-regular-webfont.ttf') format('truetype'),
+         url('savate/savate-regular-webfont.svg#savateregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Solide Mirage_Etroit';
+    src:    url('solide mirage/Etroit/Solide_Mirage-Etroit_web.eot');
+    src:    url('solide mirage/Etroit/Solide_Mirage-Etroit_web.eot?#iefix') format('embedded-opentype'),
+            url('solide mirage/Etroit/Solide_Mirage-Etroit_web.woff') format('woff'),
+            url('solide mirage/Etroit/Solide_Mirage-Etroit_web.woff2') format('woff2'),
+            url('solide mirage/Etroit/Solide_Mirage-Etroit_web.ttf') format('truetype'),
+            url('solide mirage/Etroit/Solide_Mirage-Etroit_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Solide Mirage';
+    src:    url('solide mirage/Mono/Solide_Mirage-Mono_web.eot');
+    src:    url('solide mirage/Mono/Solide_Mirage-Mono_web.eot?#iefix') format('embedded-opentype'),
+            url('solide mirage/Mono/Solide_Mirage-Mono_web.woff') format('woff'),
+            url('solide mirage/Mono/Solide_Mirage-Mono_web.woff2') format('woff2'),
+            url('solide mirage/Mono/Solide_Mirage-Mono_web.ttf') format('truetype'),
+            url('solide mirage/Mono/Solide_Mirage-Mono_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sporting Grotesque_Regular';
+    src:    url('sporting grotesque/Regular/Sporting_Grotesque-Regular_web.eot');
+    src:    url('sporting grotesque/Regular/Sporting_Grotesque-Regular_web.eot?#iefix') format('embedded-opentype'),
+            url('sporting grotesque/Regular/Sporting_Grotesque-Regular_web.woff') format('woff'),
+            url('sporting grotesque/Regular/Sporting_Grotesque-Regular_web.woff2') format('woff2'),
+            url('sporting grotesque/Regular/Sporting_Grotesque-Regular_web.ttf') format('truetype'),
+            url('sporting grotesque/Regular/Sporting_Grotesque-Regular_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sporting Grotesque_Bold';
+    src:    url('sporting grotesque/Bold/Sporting_Grotesque-Bold_web.eot');
+    src:    url('sporting grotesque/Bold/Sporting_Grotesque-Bold_web.eot?#iefix') format('embedded-opentype'),
+            url('sporting grotesque/Bold/Sporting_Grotesque-Bold_web.woff') format('woff'),
+            url('sporting grotesque/Bold/Sporting_Grotesque-Bold_web.woff2') format('woff2'),
+            url('sporting grotesque/Bold/Sporting_Grotesque-Bold_web.ttf') format('truetype'),
+            url('sporting grotesque/Bold/Sporting_Grotesque-Bold_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VG5000';
+    src:    url('vg5000/VG5000-Regular_web.eot');
+    src:    url('vg5000/VG5000-Regular_web.eot?#iefix') format('embedded-opentype'),
+            url('vg5000/VG5000-Regular_web.woff') format('woff'),
+            url('vg5000/VG5000-Regular_web.woff2') format('woff2'),
+            url('vg5000/VG5000-Regular_web.ttf') format('truetype'),
+            url('vg5000/VG5000-Regular_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
